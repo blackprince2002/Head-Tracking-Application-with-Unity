@@ -1,0 +1,3 @@
+- Create a new scene in Unity and save it as MainScene.unity.
+- Add an empty GameObject to the scene and attach UDPReceive.cs to it.
+- Attach HeadTracking.cs to the main camera GameObject.
