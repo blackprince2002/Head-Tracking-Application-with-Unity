@@ -16,3 +16,13 @@ The Head Tracking Application is a project that allows real-time tracking of a u
    ```bash
    pip install -r python/requirements.txt
 
+### Unity
+
+1. **Open Unity:**
+   - Open Unity Hub.
+   - Click on "Add" and select the unity directory of this repository.
+
+1. **Attach Scripts:**
+   - Attach UDPReceive.cs to a GameObject in your Unity scene.
+   - Attach HeadTracking.cs to the main camera GameObject.
+     
