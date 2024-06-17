@@ -35,4 +35,19 @@ The Head Tracking Application is a project that allows real-time tracking of a u
 1. **Run the Unity Project:**
    - Open the Unity project located in the unity directory.
    - Play the scene (MainScene.unity) to visualize the head tracking in action.
+  
+### Project Structure
+
+   - python/: Contains Python scripts for capturing webcam data (face_tracking.py) and dependencies (requirements.txt).
+   - unity/: Unity project directory with assets (Assets/), including scripts (Scripts/) and scenes (Scenes/).
+   - LICENSE: MIT License for this project.
+
+### Project Structure
+
+   - OpenCV: Used for face detection and image processing in Python.
+   - Unity: Used for real-time 3D rendering and game development.
+   - Haarcascades: Pre-trained classifiers for face and feature detection in OpenCV.
+
+
+
      
