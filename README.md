@@ -9,6 +9,6 @@ The Head Tracking Application is a project that allows real-time tracking of a u
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/head-tracking.git
-   cd head-tracking
+   git clone https://github.com/blackprince2002/Head-Tracking-Application-with-Unity.git
+   cd Head-Tracking-Application-with-Unity
 
