@@ -12,3 +12,7 @@ The Head Tracking Application is a project that allows real-time tracking of a u
    git clone https://github.com/blackprince2002/Head-Tracking-Application-with-Unity.git
    cd Head-Tracking-Application-with-Unity
 
+2. **Install Dependencies:**
+   ```bash
+  pip install -r python/requirements.txt
+
