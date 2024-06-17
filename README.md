@@ -14,5 +14,5 @@ The Head Tracking Application is a project that allows real-time tracking of a u
 
 2. **Install Dependencies:**
    ```bash
-  pip install -r python/requirements.txt
+   pip install -r python/requirements.txt
 
