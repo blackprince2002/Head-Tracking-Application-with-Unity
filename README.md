@@ -1,2 +1,14 @@
 # Head-Tracking-Application-with-Unity
-In this application, the camera moves and rotates based on the user's head movements, creating a seamless and engaging visual effect. This technology can be particularly useful in retail environments to capture the attention of customers by interacting with displayed products in a realistic manner.
+## Overview
+
+The Head Tracking Application is a project that allows real-time tracking of a user's head movements using a webcam and Unity. The application captures facial movements using Python and OpenCV, sends the data over UDP to Unity, and adjusts the camera position and rotation accordingly. This can be used for interactive experiences, virtual reality simulations, and more.
+
+## Installation Instructions
+
+### Python
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/head-tracking.git
+   cd head-tracking
+
