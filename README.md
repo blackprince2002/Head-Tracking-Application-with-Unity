@@ -25,4 +25,14 @@ The Head Tracking Application is a project that allows real-time tracking of a u
 1. **Attach Scripts:**
    - Attach UDPReceive.cs to a GameObject in your Unity scene.
    - Attach HeadTracking.cs to the main camera GameObject.
+
+### Usage Instructions
+
+1. **Run the Python Script:**
+   - Navigate to the python directory.
+   - Run face_tracking.py to start capturing and sending head tracking data.
+
+1. **Run the Unity Project:**
+   - Open the Unity project located in the unity directory.
+   - Play the scene (MainScene.unity) to visualize the head tracking in action.
      
